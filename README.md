@@ -1,5 +1,5 @@
 # dancinghubby
 
-A small birthday project for my beloved boyfriend.
+A small birthday project for my beloved girlfriend.
 
-https://nhunimuni.github.io/dancinghubby/
+https://github.com/vkael91/siadjas.git
